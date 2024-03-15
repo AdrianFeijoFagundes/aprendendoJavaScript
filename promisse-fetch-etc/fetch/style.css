@@ -1,0 +1,23 @@
+#list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.characters {
+    background-color: rgb(215, 236, 236);
+    margin: 3px;
+    padding: 3px;
+    max-width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+
+}
+img {
+    padding: 5px;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
